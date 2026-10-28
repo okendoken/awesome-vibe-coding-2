@@ -279,6 +279,7 @@ Platforms where you describe an app in plain English and get a working, deployab
 - [Buzzy](https://www.buzzy.buzz) - Turn Figma designs into working apps with AI. Design-first approach to app building. **[Freemium]**
 - [Pico](https://picoapps.xyz) - Build micro-apps with a single prompt. Fast, simple, shareable web apps in seconds. **[Free]**
 - [Literally Anything](https://www.literallyanything.io) - Type anything → get a working web app. The simplest possible vibe coding interface. **[Freemium]**
+- [AppWizzy](https://appwizzy.com/) - AI-powered business web app builder with dedicated cloud development VMs, runtime templates, and Git-based source editing. Free personal-use plan; commercial use requires a paid plan. **[Freemium]**
 ## AI Code Completion & Assistants
 
 Inline code suggestions, autocomplete, and chat-based coding assistants - the broadest category of AI coding tools.
